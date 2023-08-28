@@ -12,6 +12,12 @@
 
 và nhiều chức năng nữa.
 
+## Giới thiệu
+
+Chương trình sử dụng các phím chức năng để điều khiển chương trình như:
+- Các phím mũi tên
+- Enter, Tab, Esc
+
 ## Môi trường
 
 Ưu tiên sử dụng DevC++ phiên bản 5.11 để sử dụng code. 
