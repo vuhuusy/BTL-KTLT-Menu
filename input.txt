@@ -1,0 +1,9 @@
+
+Nguoi dung nhap vao: 
+- Bac cua da thuc: 0.
+- So chu so phan thap phan muon hien thi la: 8.
+
+- Cac he so cua da thuc:
+ +> a0 = 0.00000000
+
+Phuong trinh: F(x) = 0.00000000x^0 = 0
