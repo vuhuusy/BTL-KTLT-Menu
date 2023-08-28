@@ -10,8 +10,8 @@
 
 Tải 2 file BTL.cpp và giao_dien.h và để trong cùng 1 thư mục, sau đó chạy file BTL.cpp là có thể sử dụng chương trình.
 
-File color.cpp là một chương trình để lấy mã của 256 màu (phục vụ cho mục đích thiết kế giao diện chương trình)
+File color.cpp là một chương trình để lấy mã của 256 màu (phục vụ cho mục đích thiết kế giao diện chương trình).
 
-Các mã ASCII được sử dụng trong chương trình có thể tìm kiếm trên mạng qua trang web:
+Các mã ASCII được sử dụng trong chương trình có thể tìm kiếm trên mạng qua trang web: [The ASCII code](https://theasciicode.com.ar/ascii-control-characters/null-character-ascii-code-0.html)
 
-[The ASCII code](https://theasciicode.com.ar/ascii-control-characters/null-character-ascii-code-0.html)https://theasciicode.com.ar/ascii-control-characters/null-character-ascii-code-0.html)
+Các thông tin thêm có thể xem ở báo cáo.
