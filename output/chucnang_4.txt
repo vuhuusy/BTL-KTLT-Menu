@@ -1,0 +1,15 @@
+
+Chuc nang 4: Tim nghiem gan dung trong khoang (a, b) voi sai so epsilon cho truoc.
+
+Phuong trinh: F(x) = -2.00000000x^0 = 0
+
+INPUT: KPL nghiem (a,b), sai so epsilon, cong thuc sai so.
+OUTPUT: Nghiem gan dung Xn thoa man sai so epsilon.
+
+Khoang phan ly nghiem (a,b):
+- Can duoi a: 0.00000000
+- Can tren b: 10.00000000
+
+INPUT khong hop le. Khoang phan ly nghiem khong thoa man dieu kien hoi tu cua phuong phap tiep tuyen.
+
+Ket thuc.

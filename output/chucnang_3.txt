@@ -1,0 +1,15 @@
+
+Chuc nang 3: Tim nghiem gan dung voi so lan lap cho truoc trong khoang (a, b) va danh gia sai so epsilon theo hai cong thuc sai so.
+
+Phuong trinh: F(x) = -2.00000000x^0 = 0
+
+INPUT: KPL nghiem (a,b), so lan lap.
+OUTPUT: Nghiem gan dung Xn, sai so epsilon.
+
+Khoang phan ly nghiem (a,b):
+- Can duoi a: 0.00000000
+- Can tren b: 5.00000000
+
+INPUT khong hop le. Khoang phan ly nghiem khong thoa man dieu kien hoi tu cua phuong phap tiep tuyen.
+
+Ket thuc.

@@ -1,0 +1,15 @@
+
+Chuc nang 5: Tim nghiem gan dung Xn trong khoang (a, b) thoa man dieu kien: |Xn - X(n-1)| <= e.
+
+Phuong trinh: F(x) = -2.00000000x^0 = 0
+
+INPUT: KPL nghiem (a,b), sai so epsilon
+OUTPUT: Nghiem gan dung Xn thoa man |Xn - X(n-1)| <= e.
+
+Khoang phan ly nghiem (a,b):
+- Can duoi a: 0.00000000
+- Can tren b: 5.00000000
+
+INPUT khong hop le. Khoang phan ly nghiem khong thoa man dieu kien hoi tu cua phuong phap tiep tuyen.
+
+Ket thuc.

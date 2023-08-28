@@ -1,0 +1,13 @@
+
+Chuc nang 2: Thu hep khoang phan ly nghiem (a,b) thoa man |a-b| <= 0.5 bang cach su dung phuong phap chia doi
+
+
+Phuong trinh: F(x) = 0.00000000x^0 = 0
+
+
+INPUT: cac KPL nghiem tim duoc o chuc nang 1, lua chon cua nguoi dung.
+
+OUTPUT: KPL nghiem duoc rut gon thoa man |a - b| <= 0.5.
+!!! Khong ton tai khoang phan ly nghiem de rut gon.
+
+Ket thuc.

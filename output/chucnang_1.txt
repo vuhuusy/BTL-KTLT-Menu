@@ -1,0 +1,14 @@
+
+Chuc nang 1: Tim cac khoang phan ly nghiem cua phuong trinh.
+
+INPUT: Bac cua phuong trinh, cac he so cua phuong trinh f(x) = 0.
+OUTPUT: Cac khoang phan ly nghiem cua phuong trinh.
+
+Phuong trinh: F(x) = 0.00000000x^0 = 0
+
+Khoang phan ly nghiem: (-oo,+oo)
+
+Phuong trinh co vo so nghiem!
+
+
+Ket thuc.
