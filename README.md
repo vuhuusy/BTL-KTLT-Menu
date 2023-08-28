@@ -14,4 +14,4 @@ File color.cpp là một chương trình để lấy mã của 256 màu (phục 
 
 Các mã ASCII được sử dụng trong chương trình có thể tìm kiếm trên mạng qua trang web:
 
-[The ASCII code]([https://example.com](https://theasciicode.com.ar/ascii-control-characters/null-character-ascii-code-0.html)https://theasciicode.com.ar/ascii-control-characters/null-character-ascii-code-0.html)
+[The ASCII code](https://theasciicode.com.ar/ascii-control-characters/null-character-ascii-code-0.html)https://theasciicode.com.ar/ascii-control-characters/null-character-ascii-code-0.html)
